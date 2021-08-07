@@ -1,4 +1,4 @@
-# blog
+# Host
 
 ## CLI Commands
 
